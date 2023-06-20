@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Todos from '../component/Todos';
+import Todos from '../component/todos';
 import AddTodo from '../component/AddTodo';
 
 class Home extends Component {
